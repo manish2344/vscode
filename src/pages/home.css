@@ -1,0 +1,34 @@
+.allproblem{
+/* text-align:center; */
+/* margin:auto; */
+/* width:100%; */
+color:white;
+display:flex;
+justify-content:center;
+/* margin-top:10%; */
+height:100vh;
+
+background-color:black;
+}
+
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 1000px;
+    /* text- */
+    /* text-align:center */
+  }
+  
+  td, th {
+    /* border:1px solid #554e4e; */
+    text-align: left;
+    padding: 15px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #7d7575;
+  }
+  a{
+  text-decoration:none
+  }

@@ -1,0 +1,30 @@
+.col{
+margin-top: 60px;
+width: 500px;
+padding: 10px;
+}
+.col h3{
+color:blue
+}
+.col-middle{
+    margin-top: 60px;  
+    text-align:center;
+    width: 500px;
+    padding: 10px;
+}
+
+.col-first{
+    margin-top: 60px;
+    width: 500px;
+    padding: 10px;
+    text-align:center;
+}
+.col-first h1{
+color: white
+}
+
+.first{
+    background:#252323;
+    margin-bottom: 20px;
+color:white;
+}
